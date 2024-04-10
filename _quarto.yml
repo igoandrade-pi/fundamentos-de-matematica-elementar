@@ -1,0 +1,21 @@
+project:
+  type: website
+
+website:
+  title: "FME Resolução"
+  navbar:
+    left:
+      - href: index.qmd
+        text: Página Inicial
+      - about.qmd
+      
+lang: pt-br
+
+format:
+  html:
+    theme: cosmo
+    css: styles.css
+    toc: true
+
+editor: visual
+
