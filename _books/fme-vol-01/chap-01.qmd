@@ -13,5 +13,7 @@
     \textbf{Resp.:}
     
     Sejam as proposições $p: 2 - 1 = 1$ e $q: 5 + 7 = 3 \cdot 4$, ambas verdadeiras. Então, a proposição composta condicioal $p \rightarrow q$ é verdadeira.
+    
+    \item 
   \end{enumerate}
 \end{enumerate}
