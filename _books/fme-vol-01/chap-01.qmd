@@ -14,6 +14,20 @@
     
     Sejam as proposições $p: 2 - 1 = 1$ e $q: 5 + 7 = 3 \cdot 4$, ambas verdadeiras. Então, a proposição composta condicioal $p \rightarrow q$ é verdadeira.
     
-    \item 
+    \item $2^2 = 4 \leftrightarrow (-2)^2 = 4$
+    
+    \textbf{Resp.:}
+    
+    As proposições $p: 2^2 = 4$ e $q: (-2)^2 = 4$ são ambas verdadeiras. Logo, a proposição composta bicondicional $p \leftrightarrow q$ também é verdadeira.
+    
+    \item $5 + 7 \cdot 1 = 10 \rightarrow 3 \cdot 3 = 9$
+    
+    \item $\mbox{mdc} (3, 6) = 1 \leftrightarrow 4$ é número primo.
+    
+    \item $2 | 8 \rightarrow \mbox{mmc}(2, 8) = 2$
+    
+    \item $6 \leq 2 \leftrightarrow 6 - 2 \geq 0$
+    
+    \item $\dfrac{3}{5} < \dfrac{2}{7} \rightarrow 3 \cdot 7 = 2 \cdot 5$
   \end{enumerate}
 \end{enumerate}
