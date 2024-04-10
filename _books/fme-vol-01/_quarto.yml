@@ -18,8 +18,15 @@ format:
     theme: cosmo
   pdf:
     documentclass: scrreprt
-    output-file: "fme-vol-01"
-    output-ext: "pdf"
+    geometry:
+      - top=30mm
+      - left=30mm
+      - right=20mm
+      - bottom=20mm
+    fontfamily: libertinus
+    include-in-header: 
+      text: |
+        \usepackage{enumitem}
     
 lang: pt-br
 

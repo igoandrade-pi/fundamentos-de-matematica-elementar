@@ -1,3 +1,17 @@
 # Noções de Lógica
 
+*Exercícios - Pág. 9*
 
+
+\begin{enumerate}[leftmargin=*]
+  \setcounter{enumi}{3}
+  \item Classifique em verdadeira ou falsa cada uma das proposições abaixo.
+  
+  \begin{enumerate}[label=\alph*), leftmargin=*]
+    \item $2 - 1 = 1 \rightarrow 5 + 7 = 3 \cdot 4$
+    
+    \textbf{Resp.:}
+    
+    Sejam as proposições $p: 2 - 1 = 1$ e $q: 5 + 7 = 3 \cdot 4$, ambas verdadeiras. Então, a proposição composta condicioal $p \rightarrow q$ é verdadeira.
+  \end{enumerate}
+\end{enumerate}
