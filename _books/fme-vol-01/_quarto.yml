@@ -8,8 +8,7 @@ book:
   date: "10/04/2024"
   chapters:
     - index.qmd
-    - intro.qmd
-    - summary.qmd
+    - chap-01.qmd
     - references.qmd
 
 bibliography: references.bib
@@ -19,6 +18,10 @@ format:
     theme: cosmo
   pdf:
     documentclass: scrreprt
+    output-file: "fme-vol-01"
+    output-ext: "pdf"
+    
+lang: pt-br
 
 editor: visual
 
